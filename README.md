@@ -1,7 +1,7 @@
-Codeigniter MailChimp API v2 Wrapper
+Codeigniter MailChimp API v3 Wrapper
 ====================================
 
-Build off the great wrapper by Drew McLellan <drew.mclellan@gmail.com> - Super-simple, minimum abstraction MailChimp API v2 wrapper, in PHP.
+Build off the great wrapper by Drew McLellan <drew.mclellan@gmail.com> and Ben Bowler - Super-simple, minimum abstraction MailChimp API v3 wrapper, in PHP.
 
 Requires curl.
 
